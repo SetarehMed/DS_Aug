@@ -33,4 +33,5 @@ Some examples of applied augmented damage sites images with the explained tools 
 
 # License
 Publications arising from this project should include a reference to this project and an electronic copy of these publications should be sent to the following E-mails: se.medghalchi@yahoo.com
+
 medghalchi@imm.rwth-aache.de
