@@ -29,3 +29,8 @@ variety.29 In this work, we investigate whether our method can be expanded direc
 Some examples of applied augmented damage sites images with the explained tools is shon here:
 
 ![AugExs](https://user-images.githubusercontent.com/54040415/188905827-e18c7934-c788-47b6-8d15-28ff51bf021c.png)
+
+
+#License
+Publications arising from this project should include a reference to this project and an electronic copy of these publications should be sent to the following E-mails: se.medghalchi@yahoo.com
+medghalchi@imm.rwth-aache.de
