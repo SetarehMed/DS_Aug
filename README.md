@@ -1,4 +1,4 @@
-# DAS_Aug
+# DS_Aug
 Here is the script for the augmentation of the damage site images existing in the microstructure of dual phase steel.. The images are collected using high resolution electron microscopes in IMM institute of RWTH Aachen university. 
 
      "Damage Analysis in Dual-Phase Steel Using Deep Learning: Transfer from Uniaxial to Biaxial Straining Conditions by Image Data Augmentation"
